@@ -97,3 +97,4 @@ operation-riptide.click
 discord-cpp.com
 discord-nitro.ru.com
 click.zoom.us
+wedoalittleauth.xyz
